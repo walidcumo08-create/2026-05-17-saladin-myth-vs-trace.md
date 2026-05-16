@@ -1,6 +1,3 @@
-<img width="941" height="1672" alt="1000225040" src="https://github.com/user-attachments/assets/a126eba6-d39e-4251-9fca-db2f9b1d894a" />
-<img width="941" height="1672" alt="1000225040" src="https://github.com/user-attachments/assets/89290ef5-cf43-4a2d-bbe8-ac5232698add" />
----
 layout: post
 title: "تفكيك الأسطورة وإعادة بناء الأثر"
 subtitle: "قراءة واقعية في تاريخ البطل صلاح الدين الأيوبي"
@@ -13,8 +10,6 @@ description: "دراسة فكرية نقدية تبحث في الفجوة الم
 categories: [فلسفة التاريخ, الوعي التاريخي]
 tags: [صلاح_الدين_الأيوبي, مدرسة_الضمير_الواقعي, وليد_جمو, منصة_سنبلة, تفكيك_الأسطورة]
 video_source: "https://www.facebook.com/share/v/1BC2qduJXH/"
-image_source: "<img width="941" height="1672" alt="1000225040" src="https://github.com/user-attachments/assets/ea2026f6-9fd0-4e87-aaca-3976505787d7" />
-1000225099.jpg"
 copyright: "© جميع الحقوق محفوظة لعام 2026 - مدرسة الضمير الواقعي"
 ---
 
